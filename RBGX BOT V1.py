@@ -564,7 +564,7 @@ class Proxy:
                         self.squad = self.Encrypt_ID(8679231987)
 
                         print("Encrypted P.")
-                        self.RbGx = True
+                        self.RbGx = False
 
                         # ✅ ما يتحقق من الرابط إلا إذا self.RbGx == True
                         if self.RbGx:
